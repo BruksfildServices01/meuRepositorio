@@ -1,0 +1,35 @@
+.albums-carousel {
+    position: relative;
+    overflow: hidden;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+  }
+  
+  .albums-container {
+    display: flex;
+    transition: transform 0.5s;
+  }
+  
+  .albums-container img {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+  }
+  
+  .btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+  }
+ 
+  #prev {
+    left: 0;
+  }
+  
+  #next {
+    right: 0;
+  }
+
+  
