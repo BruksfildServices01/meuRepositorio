@@ -1,6 +1,6 @@
 # Plataforma de Vendas de Figurinhas Colecionáveis Fluet
 
-![Screenshot da Plataforma](URL_DA_IMAGEM_DO_SITE) <!-- Adicione a URL de uma captura de tela do site, se tiver uma -->
+![Screenshot da Plataforma](https://bruksfildservices01.github.io/meuRepositorio/#) <!-- Adicione a URL de uma captura de tela do site, se tiver uma -->
 
 ## 📖 Descrição
 
