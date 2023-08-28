@@ -42,5 +42,5 @@ A Plataforma Fluet é especializada na venda de figurinhas colecionáveis, ofere
 
 
 
-[Visite o site do jogo](https://bruksfildservices01.github.io/jogo_da_velha.github.io/ "Acesse o site!")
+[Visite o site do jogo](https://bruksfildservices01.github.io/meuRepositorio/ "Acesse o site!")
 
